@@ -11,7 +11,7 @@
 - Soy fumadora
 - Tengo problemas de atención
   
-#La tercera mesa - Graham Harman
+# La tercera mesa - Graham Harman
 - La tercera mesa se aleja de lo funcional → se vuelve más conceptual
 - Menos interés en representar una mesa “real” → más en la idea de mesa
 - Objetos o elementos más abstractos / simbólicos
