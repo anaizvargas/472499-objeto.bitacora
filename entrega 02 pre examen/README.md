@@ -1,15 +1,15 @@
-##FANZINE ¿Qué es? ¿Cómo lo definimos?
+## FANZINE ¿Qué es? ¿Cómo lo definimos?
 
 Creemos que la definición formal de fanzine funciona al hablar de un dispositivo de circulación, como que se va construyendo a base de “fragmentos” o “ideas/puntos de vista” quizás, desde voces que no son reconocidas como institucionales, y que las mismas se pueden ir transformando en experiencias mucho más visuales y colectivas.
 
-##Idea del concepto u objeto a utilizar
+## Idea del concepto u objeto a utilizar
 
 Pensamos en hacer una especie de “Anatomía de cómo aman”, que podría ser traducido en un “registro” o “archivo” de promesas, despedidas y repeticiones, utilizando como base de datos cartas de amor recopiladas desde 2018 hasta 2026. Pensamos en utilizar algunas de diferentes personas igual: Anaíz, Violeta, Coni, porque creo que hace sentido también considerando la carrera artística y la vida personal de Violeta. Quizás es algo que nos une como mujeres amadas? O no, no elegidas, no sé.
 
 Ella hablaba harto en cartas y poemas sobre el no sentirse elegida o más bien sentir que no pertenecía acá.
 
 
-#Procedimiento del proyecto
+# Procedimiento del proyecto
 
 * Recopilación.
 * Anonimización.
